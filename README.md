@@ -18,8 +18,6 @@
   </samp>
 </p>
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-
 <p align="center">
  <a href="https://t.me/edrismohamadi2005">
   <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white" />
